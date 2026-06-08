@@ -1,1 +1,7 @@
 .venv/
+
+go-api/libonnxruntime.so
+
+onnxruntime-*.tgz
+
+onnxruntime-*/
