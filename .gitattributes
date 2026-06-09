@@ -1,0 +1,4 @@
+*.ipynb linguist-detectable=false
+
+lib/* linguist-vendored
+api/financial-api linguist-vendored
