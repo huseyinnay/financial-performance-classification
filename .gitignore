@@ -1,6 +1,6 @@
 .venv/
 
-go-api/libonnxruntime.so
+api/libonnxruntime.so
 
 onnxruntime-*.tgz
 
